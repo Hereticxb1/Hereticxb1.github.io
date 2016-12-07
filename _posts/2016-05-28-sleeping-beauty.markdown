@@ -21,7 +21,7 @@ categories: Mathematics
 
 [YouTube](https://www.youtube.com)
 
-![](/media/HeaderImage.jpg)
+![](HeaderImage.jpg)
 
 It's amazing how a simple puzzle installs chaos among mathematicians and philosophers alike. Some would argue that the correct probability is ½: after all, the coin is **fair**, isn't it? Others would say that the correct probability should be ⅓. Think about this problem for a second because the correct answer is... **both**!
 
